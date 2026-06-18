@@ -1,1 +1,3 @@
-body {}
+function welcomeMessage() {
+    alert("Welcome to UNIZIK Bioscience Study Hub!");
+}
